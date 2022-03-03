@@ -8,7 +8,7 @@
 
 ### Max Sell: <mark style="color:orange;">5,000,000</mark> _tokens_
 
-**$EGO** will begin with a total supply of 1,000,000,000 tokens. Ten percent of the total supply (100,000,000 tokens) will be set aside for the current pre-sale model on **March 18**. In order to prevent dramatic spikes in prices, there will be:
+**$EGO** will begin with a total supply of 1,000,000,000 tokens. Ten percent of the total supply (100,000,000 tokens) will be set aside for the current pre-sale model on **March 15**. In order to prevent dramatic spikes in prices, there will be:
 
 * 15% buy/sell tax for first 72 hrs
 * Buy tax lowered to 10% after initial 72 hrs
