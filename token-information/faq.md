@@ -10,7 +10,7 @@ description: Frequently Asked Questions
 
 ### Does the Dev team receive $EGO tokens?
 
-* The Dev team is not allowed to hold any $EGO tokens. They receive a salary from a percentage of the transaction tax that is rewarded in a FTM tokens.
+* The Dev team is not allowed to hold any $EGO tokens. They receive a salary from a percentage of the transaction tax that is rewarded in FTM tokens.
 
 ### Is $EGO a Node Service?
 
@@ -22,4 +22,4 @@ description: Frequently Asked Questions
 
 ### When does staking go live for $EGO?
 
-* Four weeks after the launch of $EGO.
+* Four weeks after the token launch.
