@@ -2,7 +2,7 @@
 description: >-
   Promoting an Equitable Growth Opportunity through our Community, Transparency,
   and Sustainability.
-cover: .gitbook/assets/Screen Shot 2022-03-01 at 8.26.44 PM.png
+cover: .gitbook/assets/gitbook-banner-smaller.jpg
 coverY: 0
 ---
 
