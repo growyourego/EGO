@@ -34,7 +34,7 @@ description: Frequently Asked Questions
 
 ### What happens if their are 3 consecutive sells from the same wallet?
 
-* First two sell transactions will have 15% sell tax. However, if there is a third transaction place 65 seconds after the second sell, then that transaction will accrue an extra 20% tax until selling has ceased for 5 minutes.
+* First two sell transactions will have 15% sell tax. However, if there is a third transaction placed 65 seconds after the second sell, then that transaction will accrue an extra 20% tax until selling has ceased for 5 minutes.
 
 ### How will the team maintain transparency?
 
