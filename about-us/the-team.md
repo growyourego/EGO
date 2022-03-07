@@ -4,4 +4,8 @@ description: Meet the Team behind Equitable Growth Opportunity (EGO).
 
 # 👥 The Team
 
-## Coming soon... 03/07/2022
+![](<../.gitbook/assets/Screen Shot 2022-03-07 at 12.04.21 PM.png>)
+
+![](<../.gitbook/assets/Screen Shot 2022-03-07 at 12.10.44 PM.png>)
+
+![](<../.gitbook/assets/Screen Shot 2022-03-07 at 12.13.01 PM.png>)
