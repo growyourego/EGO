@@ -32,3 +32,7 @@ The Transaction Tax Breakdown is of the 15% buy/sell tax.
 **3% of the transaction tax will go into the Dev Wallet.** This will fund the Developers' salary as well as future marketing costs. The budget will be used to promote $EGO on various social media platforms.
 
 **1% of the transaction tax will be dedicated to the Dream Foundation.** This contribution will go toward bettering the entire ecosystem through our marketing partnership and supporting their mission of fighting mental health issues. &#x20;
+
+## Distribution of Funds Diagram
+
+![](<../.gitbook/assets/Screen Shot 2022-03-07 at 7.04.21 PM.png>)
