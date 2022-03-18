@@ -16,10 +16,12 @@
 
 **$EGO** will begin with a total supply of 1,000,000,000 tokens. On March 21st, we will initiate a fair launch with up to 7 fully-vetted seed investors. In other words, the seed investors will NOT have access to any of their tokens for one week after the launch. Additionally, these investors will be starting at a massive loss and only 5.5% of the total token supply will be distributed among all of them. The funds received from the seed investors will be injected into the liquidity pool pre-launch.
 
-* 15% buy/sell tax for first 72 hrs
-* Buy tax lowered to 10% after initial 72 hrs
-* 60 second cool down time will be in place between each buy and sell transaction
-* If there is a third transaction placed 65 seconds after the second sell, then that transaction will accrue an extra 20% tax until selling has ceased for 5 minutes.
+* **20% sell tax for first 24 hrs after launch**
+* **15% buy/sell tax for first 72 hrs**
+* **Buy tax lowered to 10% after initial 72 hrs**
+* **Sell tax lowered to 15% after initial 24 hours**
+* **60 second cool down time will be in place between each buy and sell transaction**
+* **If there is a third transaction placed 65 seconds after the second sell, then that transaction will accrue an extra 20% tax until selling has ceased for 5 minutes.**
 
 {% hint style="info" %}
 The Transaction Tax Breakdown is of the 15% buy/sell tax.
