@@ -17,3 +17,11 @@ Pre-launch Instructions for MetaMask and KuCoin
 The following is a step-by-step guide on how to purchase $FTM and $EGO tokens by using Coinbase Wallet and SpookySwap. The guide is very simple and does NOT use ETH in order to prevent investors from paying high gas fees.
 
 {% embed url="https://www.dropbox.com/s/vmrv88nms2x54n1/Coinbase%20Wallet%20Guide.pdf?dl=0" %}
+
+### How to Purchase Fantom (FTM) on Crypto.com
+
+{% embed url="https://www.youtube.com/watch?v=ibiZlsgyyRo" %}
+
+### How to Bridge FTM tokens from ETH network to FTM network
+
+{% embed url="https://www.dropbox.com/s/626somjsxt37uur/SpookySwapBridge.pdf?dl=0" %}
