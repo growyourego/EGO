@@ -25,3 +25,7 @@ The following is a step-by-step guide on how to purchase $FTM and $EGO tokens by
 ### How to Bridge FTM tokens from ETH network to FTM network
 
 {% embed url="https://www.dropbox.com/s/626somjsxt37uur/SpookySwapBridge.pdf?dl=0" %}
+
+{% embed url="https://twitter.com/MrMooseMilk/status/1505840877905670145?s=20&t=IncN3vugEJuN0uEF10hSwg" %}
+
+{% embed url="https://twitter.com/MrMooseMilk/status/1506597610735370246?s=20&t=IncN3vugEJuN0uEF10hSwg" %}

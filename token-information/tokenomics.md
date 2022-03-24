@@ -14,7 +14,7 @@
 
 ### Ticker: <mark style="color:blue;">$EGO</mark>
 
-**$EGO** will begin with a total supply of 1,000,000,000 tokens. On March 21st, we will initiate a fair launch with up to 7 fully-vetted seed investors. In other words, the seed investors will NOT have access to any of their tokens for one week after the launch. Additionally, these investors will be starting at a massive loss and only 5.5% of the total token supply will be distributed among all of them. The funds received from the seed investors will be injected into the liquidity pool pre-launch.
+**$EGO** will begin with a total supply of 1,000,000,000 tokens. On March 22nd, we will initiate a fair launch with up to 7 fully-vetted seed investors. In other words, the seed investors will NOT have access to any of their tokens for one week after the launch. Additionally, these investors will be starting at a massive loss and only 5.5% of the total token supply will be distributed among all of them. The funds received from the seed investors will be injected into the liquidity pool pre-launch.
 
 * **20% sell tax for first 24 hrs after launch**
 * **15% buy/sell tax for first 72 hrs**
