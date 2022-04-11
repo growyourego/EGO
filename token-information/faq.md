@@ -6,7 +6,7 @@ description: Frequently Asked Questions
 
 ### What is the pair?
 
-* FTM/EGO
+* BNB/EGO
 
 ### Does the Dev team receive $EGO tokens?
 
@@ -22,11 +22,11 @@ description: Frequently Asked Questions
 
 ### When does staking go live for $EGO?
 
-* Four weeks after the token launch.
+* 2.5 weeks after the token launch.
 
-### Are gas fees high on the FTM network?
+### Are gas fees high on the BSC network?
 
-* Fantom is designed to overcome the limitations in transaction speeds and has very low gas fees.&#x20;
+* Binance Smart Chain is designed to overcome the limitations in transaction speeds and has very low gas fees.&#x20;
 
 ### Is 30% APR sustainable?
 

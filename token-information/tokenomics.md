@@ -8,19 +8,17 @@
 
 ### Max Sell: <mark style="color:orange;">5,000,000</mark> _tokens_
 
-### Network: <mark style="color:purple;">Fantom Opera</mark> (FTM)&#x20;
+### Network: <mark style="color:yellow;">B</mark>inance <mark style="color:yellow;">S</mark>mart <mark style="color:yellow;">C</mark>hain <mark style="color:purple;"></mark> (BSC)&#x20;
 
-### Token Type: <mark style="color:purple;">FRC-20</mark>&#x20;
+### Token Type: <mark style="color:purple;">BEP-20</mark>&#x20;
 
 ### Ticker: <mark style="color:blue;">$EGO</mark>
 
-**$EGO** will begin with a total supply of 1,000,000,000 tokens. On March 22nd, we will initiate a fair launch with up to 7 fully-vetted seed investors. In other words, the seed investors will NOT have access to any of their tokens for one week after the launch. Additionally, these investors will be starting at a massive loss and only 5.5% of the total token supply will be distributed among all of them. The funds received from the seed investors will be injected into the liquidity pool pre-launch.
+**$EGO** will begin with a total supply of 1,000,000,000 tokens. On Monday April 11th, we will initiate a v2 launch on the Binance Smart Chain network. The starting price for the token will be 0.00023.&#x20;
 
-* **20% sell tax for first 24 hrs after launch**
-* **15% buy/sell tax for first 72 hrs**
-* **Buy tax lowered to 10% after initial 72 hrs**
-* **Sell tax lowered to 15% after initial 24 hours**
-* **60 second cool down time will be in place between each buy and sell transaction**
+* **10% Buy tax**&#x20;
+* **15% Sell tax**&#x20;
+* **60 second cool down time will be in place between each sell transaction**
 * **If there is a third transaction placed 65 seconds after the second sell, then that transaction will accrue an extra 20% tax until selling has ceased for 5 minutes.**
 
 {% hint style="info" %}

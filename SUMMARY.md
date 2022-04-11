@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🏦 $EGO - IaaS on Fantom](README.md)
+* [🏦 $EGO - IaaS on BSC](README.md)
 
 ## Token Information
 
