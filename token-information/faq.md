@@ -10,7 +10,7 @@ description: Frequently Asked Questions
 
 ### Does the Dev team receive $EGO tokens?
 
-* The Dev team is not allowed to hold any $EGO tokens. They receive a salary from a percentage of the transaction tax that is rewarded in FTM tokens.
+* The Dev team is not allowed to hold any $EGO tokens. They receive a salary from a percentage of the transaction tax that is rewarded in BNB tokens.
 
 ### Is $EGO a Node Service?
 
@@ -32,7 +32,7 @@ description: Frequently Asked Questions
 
 * With the way our contract and tokenomics are written, 30% APR is in fact very sustainable. A portion of our tax and passive income profits will be used to invest into NaaS and DaaS protocols as well as staking and high-yield farming. Through these investments, we are able to create a steady stream of income from our diverse portfolio and reward our investors through reflections and staking.
 
-### What happens if their are 3 consecutive sells from the same wallet?
+### What happens if there are 3 consecutive sells from the same wallet?
 
 * First two sell transactions will have 15% sell tax. However, if there is a third transaction placed 65 seconds after the second sell, then that transaction will accrue an extra 20% tax until selling has ceased for 5 minutes.
 
