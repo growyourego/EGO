@@ -2,11 +2,7 @@
 
 ### Total Supply: <mark style="color:orange;">1,000,000,000</mark> _tokens_
 
-### Max Wallet: <mark style="color:orange;">25,000,000</mark> _tokens_
-
-### Max Buy: <mark style="color:orange;">10,000,000</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;"></mark> tokens_
-
-### Max Sell: <mark style="color:orange;">5,000,000</mark> _tokens_
+### Max Wallet: <mark style="color:orange;">50,000,000</mark> _tokens_
 
 ### Network: <mark style="color:yellow;">B</mark>inance <mark style="color:yellow;">S</mark>mart <mark style="color:yellow;">C</mark>hain <mark style="color:purple;"></mark> (BSC)&#x20;
 
