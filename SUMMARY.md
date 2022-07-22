@@ -4,7 +4,7 @@
 
 ## Token Information
 
-* [📃 Whitepaper](token-information/whitepaper.md)
+* [📃 Whitepaper Summary](token-information/whitepaper-summary.md)
 * [🪙 Tokenomics](token-information/tokenomics.md)
 * [❔ FAQ](token-information/faq.md)
 
