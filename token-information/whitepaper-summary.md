@@ -8,12 +8,6 @@ description: An explanation of our purpose, our methods, and our implementation.
 **Note:** The information on this page will be updated regularly to align with current project developments.
 {% endhint %}
 
-### Division of Transaction Tax
-
-An investment in EGO is an investment in the EGO community as a whole. Each buy transaction from a holder contributes to the growth of the EGO system. The following is an example of how the transactions will be used to provide capital.
-
-* _An investor places a buy order of $1,000 USD in $EGO. Our team will proceed to reinvest a portion of the funds from the 10% buy tax and 15% sell tax, with complete transparency, into a range of passive income node opportunities. Thirty percent of the profits from passive income investments will be allocated to the LP in order to allow holders to sell their $EGO. Another 30% is distributed into buybacks as a way to raise the price if whales decide to exit and to reduce market volatility. The other 30% is used to provide the funds for investments into the EMTS (discussed further below). Lastly, ten percent goes to the developer wallet._
-
 ### $EGO Managed Trading System (EMTS)
 
 During the beginning of our protocol, we intended on investing into other passive income protocols in order to generate a residual revenue stream for the project. This would've supplied the rewards for the staking pool as well as push the protocol forward through funding for other departments. However, as the market shifted and a majority of our passive income investments were no longer able to offer high rewards, the team at EGO adapted to the current market conditions.&#x20;
