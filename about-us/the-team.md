@@ -14,6 +14,6 @@ description: Meet the Team behind Equitable Growth Opportunity (EGO).
 
 <figure><img src="../.gitbook/assets/Facebook cover - 1 (5).png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/Screen Shot 2022-05-16 at 9.51.18 PM.png>)
+<figure><img src="../.gitbook/assets/Facebook cover - 1 (6).png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/Screen Shot 2022-05-31 at 9.50.54 PM.png>)
+<figure><img src="../.gitbook/assets/Facebook cover - 1 (8).png" alt=""><figcaption></figcaption></figure>
