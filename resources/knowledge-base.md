@@ -1,9 +1,9 @@
 ---
-description: This page provides information on passive income in the cryptocurrency space.
+description: This page provides more technical information about
 ---
 
 # 🧠 Knowledge Base
 
-## All About Passive Income
+## V3 Staking Model Breakdown
 
-{% embed url="https://www.dropbox.com/s/8q5k6i0kk82nt1c/Passive%20Income%20on%20Blockchain.pdf?dl=0" %}
+{% file src="../.gitbook/assets/V3 Staking Model.pdf" %}
