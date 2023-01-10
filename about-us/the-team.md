@@ -8,9 +8,9 @@ description: Meet the Team behind Equitable Growth Opportunity (EGO).
 
 <figure><img src="../.gitbook/assets/Facebook cover - 1 (2).png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 12.10.44 PM.png>)
+<figure><img src="../.gitbook/assets/Facebook cover - 1 (3).png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/Screen Shot 2022-03-07 at 3.46.54 PM.png>)
+<figure><img src="../.gitbook/assets/Facebook cover - 1 (4).png" alt=""><figcaption></figcaption></figure>
 
 ![](<../.gitbook/assets/Screen Shot 2022-05-31 at 9.50.33 PM.png>)
 
