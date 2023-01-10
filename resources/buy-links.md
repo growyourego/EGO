@@ -11,3 +11,7 @@ Use BSCscan to view transactions
 {% embed url="https://pancakeswap.finance/swap" %}
 Buy $EGO using PancakeSwap
 {% endembed %}
+
+{% embed url="https://www.binance.us/en/home" %}
+Buy BNB on Binance Exchance
+{% endembed %}

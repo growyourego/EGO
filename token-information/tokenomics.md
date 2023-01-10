@@ -4,6 +4,8 @@
 
 ### Max Wallet: <mark style="color:orange;">50,000,000</mark> _tokens_
 
+### Max Buy: <mark style="color:orange;">50,000,000</mark> _tokens_
+
 ### Network: <mark style="color:yellow;">B</mark>inance <mark style="color:yellow;">S</mark>mart <mark style="color:yellow;">C</mark>hain <mark style="color:purple;"></mark> (BSC)&#x20;
 
 ### Token Type: <mark style="color:purple;">BEP-20</mark>&#x20;
