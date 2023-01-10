@@ -2,11 +2,11 @@
 description: >-
   Promoting an Equitable Growth Opportunity through our Community, Transparency,
   and Sustainability.
-cover: .gitbook/assets/gitbook-banner-smaller.jpg
+cover: .gitbook/assets/ego banner.jpeg
 coverY: 0
 ---
 
-# 🏦 $EGO - IaaS on Fantom
+# 🏦 $EGO - IaaS on BSC
 
 ## Introduction
 
